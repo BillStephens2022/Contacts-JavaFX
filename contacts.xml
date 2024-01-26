@@ -1,27 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contacts>
 <contact>
-	<first_name>Bill</first_name>
-	<last_name>Stephens</last_name>
-	<phone_number>2018507410</phone_number>
+	<first_name>John</first_name>
+	<last_name>Adams</last_name>
+	<phone_number>555-555-6666</phone_number>
 	<notes>Mobile</notes>
+</contact>
+<contact>
+	<first_name>Joanie</first_name>
+	<last_name>Cunningham</last_name>
+	<phone_number>943-927-1564</phone_number>
+	<notes>Home</notes>
 </contact>
 <contact>
 	<first_name>Jimmy</first_name>
 	<last_name>Smith</last_name>
-	<phone_number>7322375640</phone_number>
+	<phone_number>732-237-5640</phone_number>
 	<notes>Home</notes>
 </contact>
 <contact>
 	<first_name>Jenny</first_name>
 	<last_name>Peterson</last_name>
-	<phone_number>6465678910</phone_number>
+	<phone_number>646-567-8910</phone_number>
 	<notes>Mobile</notes>
 </contact>
 <contact>
-	<first_name>Ashlee</first_name>
-	<last_name>Johnson</last_name>
-	<phone_number>7876563210</phone_number>
-	<notes>Work</notes>
+	<first_name>Bill</first_name>
+	<last_name>Stephens</last_name>
+	<phone_number>201-850-7410</phone_number>
+	<notes>Mobile</notes>
+</contact>
+<contact>
+	<first_name>Butch</first_name>
+	<last_name>Coolidge</last_name>
+	<phone_number>787-656-3210</phone_number>
+	<notes>Work - Gym</notes>
+</contact>
+<contact>
+	<first_name>Marsellus</first_name>
+	<last_name>Wallace</last_name>
+	<phone_number>842-333-2746</phone_number>
+	<notes>Mobile</notes>
+</contact>
+<contact>
+	<first_name>Sam</first_name>
+	<last_name>Malone</last_name>
+	<phone_number>542-684-6214</phone_number>
+	<notes>Work - Bar</notes>
+</contact>
+<contact>
+	<first_name>Mia</first_name>
+	<last_name>Wallace</last_name>
+	<phone_number>462-698-7277</phone_number>
+	<notes>Beach House</notes>
 </contact>
 </contacts>

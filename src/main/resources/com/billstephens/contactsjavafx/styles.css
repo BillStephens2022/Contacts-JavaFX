@@ -1,0 +1,55 @@
+.root {
+    -fx-font-family: 'Arial';
+    -fx-base: #DFDFDF;
+}
+
+.menu-bar {
+    -fx-background-color: orange;
+    -fx-text-fill: white;
+}
+
+.menu {
+    -fx-text-fill: white;
+}
+
+.table-view {
+    -fx-background-color: #F2F2F2;
+}
+
+
+.table-row-cell {
+    -fx-table-cell-border-color: #D0D0D0;
+}
+
+.table-cell {
+    -fx-padding: 5px;
+}
+
+.table-view .column-header-background .label {
+    -fx-background-color: #4682B4;
+    -fx-text-fill: white;
+}
+
+.table-view .column-header {
+    -fx-background-color: #4682B4;
+}
+
+.table-view .table-row-cell:odd {
+    -fx-background-color: white;
+    -fx-text-fill: #4682B4;
+}
+
+.table-view .table-row-cell:even {
+    -fx-background-color: #b0c4de;
+    -fx-text-fill: white;
+}
+
+.table-view .table-row-cell:selected {
+    -fx-background-color: #7fff00;
+    -fx-text-fill: black;
+    -fx-border-color: transparent;
+}
+
+.menu {
+    -fx-text-fill: white;
+}

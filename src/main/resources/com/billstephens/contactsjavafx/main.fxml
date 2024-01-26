@@ -8,7 +8,8 @@
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuItem?>
 <BorderPane fx:id="mainPanel" xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.billstephens.contactsjavafx.MainController">
+            fx:controller="com.billstephens.contactsjavafx.MainController"
+            stylesheets="@styles.css">
     <top>
         <MenuBar>
             <menus>
