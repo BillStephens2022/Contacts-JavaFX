@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bill</first_name>
+	<last_name>Stephens</last_name>
+	<phone_number>2018507410</phone_number>
+	<notes>Mobile</notes>
+</contact>
+<contact>
+	<first_name>Jimmy</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>7322375640</phone_number>
+	<notes>home</notes>
+</contact>
+<contact>
+	<first_name>Jenny</first_name>
+	<last_name>Peterson</last_name>
+	<phone_number>6465678910</phone_number>
+	<notes>mobile</notes>
+</contact>
+<contact>
+	<first_name>Ashlee</first_name>
+	<last_name>Johnson</last_name>
+	<phone_number>7876563210</phone_number>
+	<notes>work</notes>
+</contact>
+</contacts>
