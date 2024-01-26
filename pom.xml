@@ -81,7 +81,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.billstephens.contactsjavafx/com.billstephens.contactsjavafx.HelloApplication
+                                com.billstephens.contactsjavafx/com.billstephens.contactsjavafx.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
