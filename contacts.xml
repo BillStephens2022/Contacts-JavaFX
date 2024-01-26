@@ -10,18 +10,18 @@
 	<first_name>Jimmy</first_name>
 	<last_name>Smith</last_name>
 	<phone_number>7322375640</phone_number>
-	<notes>home</notes>
+	<notes>Home</notes>
 </contact>
 <contact>
 	<first_name>Jenny</first_name>
 	<last_name>Peterson</last_name>
 	<phone_number>6465678910</phone_number>
-	<notes>mobile</notes>
+	<notes>Mobile</notes>
 </contact>
 <contact>
 	<first_name>Ashlee</first_name>
 	<last_name>Johnson</last_name>
 	<phone_number>7876563210</phone_number>
-	<notes>work</notes>
+	<notes>Work</notes>
 </contact>
 </contacts>
